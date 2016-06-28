@@ -10,7 +10,7 @@ And yes, this means the content in your Ember application is accessible to every
 curl http://www.ember-fastboot.com
 ```
 
-For more information, see [the User Guide](/docs/user-guide)
+For more information, see [the User Guide](/docs/user-guide.html)
 
 ### Running FastBoot
 
@@ -20,7 +20,7 @@ To start the FastBoot server during development:
 ember fastboot
 ```
 
-For more information, see the [Quickstart](/quickstart).
+For more information, see the [Quickstart](/quickstart.html).
 
 ### Get Help & Contribute
 

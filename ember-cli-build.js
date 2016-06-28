@@ -34,6 +34,14 @@ module.exports = function(defaults) {
     },
     fingerprint: {
       prepend: prepend
+    },
+
+    "ember-cli-static-site": {
+      paths: [
+        '/',
+        '/quickstart',
+        '/docs/user-guide'
+      ]
     }
   });
 
