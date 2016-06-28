@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/ember-fastboot/fastboot-website.svg?branch=master)](https://travis-ci.org/ember-fastboot/fastboot-website)
+##This fork aims to demonstrate how to use [ember-cli-static-site](https://github.com/robwebdev/ember-cli-static-site) to generate a static website.
 
 # Fastboot-website
 
